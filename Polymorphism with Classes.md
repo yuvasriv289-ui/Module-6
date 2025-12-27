@@ -41,9 +41,12 @@ obj_mango = Mango()
 for func in (obj_beans,obj_mango): 
     func.type()
     func.color()
+```
 
 ## Output
-<img width="263" height="222" alt="IMG35" src="https://github.com/user-attachments/assets/e47bd66c-be9a-4a07-88b1-87aa7748f143" />
+
+<img width="263" height="222" alt="IMG35" src="https://github.com/user-attachments/assets/cce6ef87-d99e-40c9-b0fb-6fcc715f333b" />
 
 ## Result
 
+Thus,the program is executed successfully.
